@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Fady Elshahat Saied</h1>
 <h3 align="center">A Front End Developer in Upwork</h3>
 
