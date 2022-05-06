@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fady Elshahat</h1>
-<h2 align="center">A Front End Developer in Upwork</h3>
+<h2 align="center">A Front End Developer in Upwork & Roomz Arabia</h3>
 <h4 align="center">I'm a Front-end developer who helps companies
 create better software on the web for reuse.
 Passionate about learning and development with a
