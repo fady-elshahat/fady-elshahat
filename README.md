@@ -1,51 +1,82 @@
-<h1 align="center">Hi 👋, I'm Fady Elshahat</h1>
-<h2 align="center">A Front End Developer in Upwork & Etmam Tech</h3>
-<h4 align="center">I'm a Front-end developer who helps companies
-create better software on the web for reuse.
-Passionate about learning and development with a
-desire to apply skills to a larger development team
-like the one in your company. I am very keen on
-tackling more complex problems and keep looking
-for ways to increase work efficiency
-</h4>
+"""# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20I'm%20Fady&fontSize=50" width="100%"/> </p>
 
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Front-End+Engineer;5%2B+Years+of+Experience;Angular+%7C+React.js+%7C+TypeScript;Building+Scalable+Web+Apps" alt="Typing SVG" />
+  </a>
+</h2>
 
+### 👨‍💻 About Me
+* I am a Front-End Developer with 5+ years of experience building responsive, scalable web applications.
+* I specialize in Angular, React.js, TypeScript, JavaScript, HTML5, and CSS3.
+* I have proven expertise translating UI/UX designs into dynamic, high-performance user interfaces.
+* I am skilled in integrating RESTful APIs for seamless data flow.
+* I am based in Alexandria, Egypt.
 
-
-<img  src="https://gist.github.com/brettlangdon/85942af486eb79118467/raw/2a7409cd3c26a90b2e82bdc40dc7db18b92b3517/iTW9Fou.jpg" >
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fady-elshahat&label=Profile%20views&color=0e75b6&style=flat" alt="fady-elshahat" /> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+### 🚀 Technical Arsenal
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,angular,react,graphql,git,github&perline=6" />
+  </a>
 </p>
 
+* **Core:** HTML5, CSS3, SASS, Bootstrap, Tailwind.js.
+* **Logic:** JavaScript (ES6), TypeScript, Angular 2+, React.js.
+* **Integration & Tools:** RESTful APIs, GraphQL, WebSockets, Git, GitHub, Agile/Scrum.
+* **Concepts:** Unit Testing, OOP, Ajax, Design Patterns, Data Structures & Algorithms.
 
+### 💼 Experience Highlights
+* **Senior Front-End Engineer** @ Techeffic (July 2025 - Present) — Developed front-end features for Travel Booking Platforms (Bookto, Wyanaa, Alkhamees) across Flight, Hotel, Transfer, and Travel Insurance modules.
+* **Senior Front-End Engineer** @ Etmam (April 2025 - May 2026) — Developed real-time IoT dashboards with interactive charts, maps, and live sensor readings using Google Maps API.
+* **Front-End Developer (Top Rated Freelancer)** @ Upwork (July 2021 - Present) — Maintained a 90%+ job success score and high client satisfaction.
+* **Mid-Level Front-End** @ EgyCard (April 2023 - December 2024) — Integrated RESTful APIs, payment gateways, and directed Git workflow standards.
+* **Angular Developer** @ Larat Platform (2023 - 6 months) — Built reusable components, handled state management using RxJS, and implemented role-based access control via Angular Guards.
+* **UI Developer** @ Hype Experiences (December 2021 - August 2022) — Assisted in developing responsive and user-friendly web interfaces using HTML5, CSS3, and JavaScript.
 
-- 💬 Ask me about **Angular , JavaScript**
+### 🎓 Education
+* **Computer and Information Systems** — High Institute for Hotels, Tourism & Computer.
 
-- 📫 How to reach me **fady.elshahat@gmail.com**
-
-- 🌱 I’m currently learning React.js
-
-
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://codepen.io/@fady-elshahat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@fady-elshahat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fady-elshahat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fady-elshahat/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/fady.elshahat22/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fady.elshahat22/" height="30" width="40" /></a>
+### 🧠 Soft Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-FF6B6B?style=for-the-badge" alt="Problem-Solving" />
+  <img src="https://img.shields.io/badge/Time%20Management-4ECDC4?style=for-the-badge" alt="Time Management" />
+  <img src="https://img.shields.io/badge/Teamwork-45B7D1?style=for-the-badge" alt="Teamwork" />
+  <img src="https://img.shields.io/badge/Communication-FFA07A?style=for-the-badge" alt="Communication" />
+  <img src="https://img.shields.io/badge/Collaboration-98D8C8?style=for-the-badge" alt="Collaboration" />
+  <img src="https://img.shields.io/badge/Conflict%20Resolution-F7DC6F?style=for-the-badge" alt="Conflict Resolution" />
 </p>
 
+* Proven ability in **Communication**, **Problem-Solving**, and **Time Management**.
+* Strong focus on **Teamwork**, **Collaboration**, and **Conflict Resolution**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fady-elshahat" alt="fady-elshahat" /></a> </p>
+### 🌍 Languages
+* **Arabic:** Native Speaker.
+* **English:** B1.
 
+### 📊 GitHub Stats & Streaks
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fady-elshahat&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Fady's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fady-elshahat&theme=tokyonight&hide_border=true" alt="Fady's GitHub Streak" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fady-elshahat&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fady-elshahat&show_icons=true)  
+### 📫 Let's Connect
+<p align="center">
+  <a href="https://linkedin.com/in/fady-elshahat">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fady.elshahat@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://fady-elshahat.com">
+    <img src="https://img.shields.io/badge/Portfolio-252F3F?style=for-the-badge&logo=Globe&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fady-elshahat&show_icons=true&locale=en&layout=compact" alt="fady-elshahat" /></p>
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
+"""
