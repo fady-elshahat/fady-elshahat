@@ -1,4 +1,4 @@
-"""# <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20I'm%20Fady&fontSize=50" width="100%"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20World!%20I'm%20Fady&fontSize=50" width="100%"/> </p>
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
@@ -79,4 +79,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
-"""
